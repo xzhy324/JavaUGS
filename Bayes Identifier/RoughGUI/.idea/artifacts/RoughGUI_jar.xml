@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RoughGUI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RoughGUI_jar</output-path>
+    <root id="archive" name="RoughGUI.jar">
+      <element id="module-output" name="RoughGUI" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/BayesIdentifier/NBB_Module.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
